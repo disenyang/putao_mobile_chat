@@ -1,4 +1,4 @@
-传言管理系统
+传言网页端
 
 ## 运行 npm run local
 ## 路由地址 business/router/index.js
